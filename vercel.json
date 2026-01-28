@@ -9,6 +9,6 @@
     { "src": "/(.*)", "dest": "/frontend/index.html" }
   ],
   "env": {
-    "HF_API_KEY": "@hf_api_key"
+    "HF_API_KEY": "BlHcPurzUBkrFWKTRZfWGxFjFDCISApWOE"
   }
 }
